@@ -1,0 +1,23 @@
+Definisi dari Git, Github, Gitlab, dan VCS (Version Control System)
+
+Version Control System (VCS) : Sebuah sistem yang menyimpan dan mengelola rekaman / snapshot perubahan dari source code kita
+Git : Sebuah software atau aplikasi VCS yang bisa kita download dan gunakan untuk mengelola perubahan dari source code kita
+Github : Sebuah Website atau layanan cloud yang menggunakan git di dalamnya untuk mengelola projek git kita dengan menggunakan koneksi internet
+
+Manfaat atau Fungsi dari penggunaan VCS :
+-> Untuk memudahkan kita dalam melacak versi atau histori perubahan dari aplikasi kita
+-> Untuk memudahkan kita dalam melakukan kolaboroasi dengan developer lainnya
+-> Sebagai sarana atau media untuk membagikan atau memamerkan aplikasi kita kepada orang lain
+-> Sebagai sarana atau media untuk belajar dan melakukan eksplorasi dari aplikasi milik orang lain
+
+Perbedaan antara Git dan Github :
+=> Perbedaan pertama : Git digunakan untuk bekerja secara lokal di dalam komputer kita, sedangkan Github adalah layanan cloud yang dapat diakses oleh orang lain secara publik melalui koneksi internet
+=> Perbedaan kedua : Git adalah aplikasi terminal atau desktop, sedangkan Github adalah sebuah website konvensional yang memiliki fitur yang sama seperti Git
+=> Perbedaan ketiga : Fitur utama Git adalah repository, commit, barnch, merge, dan bersifat offline, sedangkan fitur utama Github adalah remote repository, clone project, push dan pull commit, dan bersifat online
+
+Manfaat menggunakan Git dan Github secara bersamaan :
+-> Satu projek aplikasi dapat dikerjakan oleh banyak orang secara bersamaan melalui fitur remote, push, pull, dan clone project
+-> Kita dapat mengakses, mengubah, dan mengerjakan projek kita dimanapun dan kapanpun serta juga memungkinkan kita untuk mengerjakannya dengan menggunaka komputer yang berbeda, asal kita terhubung dengan jaringan internet
+
+Contoh Software atau Aplikasi VCS : Git, Subversion, Mercurial, dan cvd (Concurrent Versions System)
+Contoh Website atau Layanan cloud untuk Git : Github, Bitbucket, dan Gitlab
